@@ -1,0 +1,22 @@
+{
+  "name": "javascriptenvironment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MistColoured/javaScriptEnvironment",
+  "author": "Michael Allen",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-restricted-globals": "^0.1.1",
+    "espree": "^4.0.0",
+    "object.assign": "^4.1.0",
+    "object.entries": "^1.0.4"
+  },
+  "dependencies": {}
+}
