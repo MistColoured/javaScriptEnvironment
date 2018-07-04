@@ -13,9 +13,9 @@ module.exports = {
   'extends': [
       'airbnb-base',
   ],
-  'parser': 'esprima',
+  'parser': 'babel-eslint',
   'parserOptions': {
-      'ecmaVersion': 9,
+      'ecmaVersion': 2018,
       'sourceType': 'script',
       'ecmaFeatures': {
           'impliedStrict': true,
